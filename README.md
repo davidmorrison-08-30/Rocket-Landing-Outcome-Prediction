@@ -1,6 +1,6 @@
 # Rocket landing's outcome prediction on SpaceX's data
 
-This is a project of Applied Data Science Capstone course in Coursera
+This is a project of <a href="https://www.coursera.org/learn/applied-data-science-capstone">Applied Data Science Capstone</a> course in Coursera
 
 Duration: 4 weeks:
 
