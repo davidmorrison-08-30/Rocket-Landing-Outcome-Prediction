@@ -2,7 +2,7 @@
 
 This is a project of <a href="https://www.coursera.org/learn/applied-data-science-capstone">Applied Data Science Capstone</a> course in Coursera
 
-Duration: 4 weeks:
+Duration: 5 weeks:
 
  - Week 1: Data collection via REST API and data wrangling
  
@@ -12,3 +12,4 @@ Duration: 4 weeks:
 
  - Week 4: Predictive Analysis (Classification) using Logistic Regression, KNN, SVM and Naive Bayes
  
+ - Week 5: Final presentation (attached .pptx file)
