@@ -10,6 +10,6 @@ Duration: 5 weeks:
 
  - Week 3: Visualization using Folium map and Dashboard
 
- - Week 4: Predictive Analysis (Classification) using Logistic Regression, KNN, SVM and Naive Bayes
+ - Week 4: Predictive Analysis (Classification) using Logistic Regression, KNN, SVM and Decision Tree
  
  - Week 5: Final presentation (attached .pptx and .pdf files)
