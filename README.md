@@ -12,4 +12,4 @@ Duration: 5 weeks:
 
  - Week 4: Predictive Analysis (Classification) using Logistic Regression, KNN, SVM and Naive Bayes
  
- - Week 5: Final presentation (attached .pptx file)
+ - Week 5: Final presentation (attached .pptx and .pdf files)
